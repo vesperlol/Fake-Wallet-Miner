@@ -1,11 +1,3 @@
-"""
-Simple Fake Wallet Miner (BTC, LTC, ETH)
-Made by your man vesper :P
-Contact me : vesper#0003
-
-Also remember to obfuscate your code. I recommend you my obfuscator that I have made in python 3.9 here : https://github.com/vesperlol/Monkey-Obfuscator
-You can delete this
-"""
 import os,string;from pystyle import *;from time import sleep;from random import choice, randint
 logo = """
                                  ▄██████▄▄           ▄██████▄
